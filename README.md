@@ -7,4 +7,4 @@ I'm python backend developer on FastAPI. Here you may [look on my CV](./cv.pdf) 
 * 💬 I often interact with different development teams
 * 🔭 My last project is "keepfood", a service for recommending dishes for each meal and convenient selection and delivery of products through the app
 
-My favorite stack of technologies are Fast API and PostgreSQL (asyncpg).
+⚙️ My favorite stack of technologies are Fast API and PostgreSQL (asyncpg), you can see more [in the CV](./cv.pdf)
